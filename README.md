@@ -15,8 +15,6 @@
 
 ## Data
 
-- Task A
-- Task B
 - [Task C](https://drive.google.com/drive/folders/1kEQicOD3T7P_69_fNAsJKYqtJF8AG_w4)
 - [Task D](https://drive.google.com/drive/folders/1Ybyl32vaxFtkD_XBho7j91VEWrBT4yJb?usp=sharing)
 - [Task E](https://disk.yandex.ru/d/RzRkRn3Tym-FaA) and [this](https://disk.yandex.ru/d/jWWAhxGes_VJaw)
