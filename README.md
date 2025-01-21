@@ -5,7 +5,7 @@
 - Solved 3 out of 5 tasks:
   - Task C - Film genre text classification with the F1-macro evaluation metric
   - Task D - Turnover time-series forecasting for a hotel company
-  - Task E - Zero-shot image classification of hotel images
+  - Task E - Zero-shot image classification of hotel images **(got third place)**
 
 ## Final solution
 
